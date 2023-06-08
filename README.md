@@ -1,0 +1,2 @@
+# linuxInstallNginxNacos
+记录linux安装niginx和nacos集群的过程
